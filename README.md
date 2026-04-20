@@ -1,0 +1,1 @@
+# hm-photo-change-storage
